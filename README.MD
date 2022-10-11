@@ -43,3 +43,10 @@ Este proyecto se basara en datos abiertos de INEGI para el analisis de datos de 
 
 
 
+### Challenge 6
+
+* [Challenge 6: Dash con callbacks Parte 1](./Challenge6.ipynb)
+
+*Copia para abrir directamente desde Google Colab*
+
+* [Challenge 6: Dash con callbacks Parte 1](https://colab.research.google.com/drive/1AiF1H2jN_xUAjefxEXAUEzq0SSFCIx3S?usp=sharing)
