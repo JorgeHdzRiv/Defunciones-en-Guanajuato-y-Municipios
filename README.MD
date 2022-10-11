@@ -15,8 +15,18 @@ Este proyecto se basara en datos abiertos de INEGI para el analisis de datos de 
 
 *A partir de este punto se trabajara con cuadernos de Google Colab y la data desde este mismo repositorio, debido a las librerias que seran utilizadas en adelante las cuales causaron incovenientes en VSCode*
 
+* [Challenge 4: Mapas](https://github.com/JorgeHdzRiv/Defunciones-en-Guanajuato-y-Municipios/blob/main/Challenge_4.ipynb)
+
+* [Challenge 4: Mapas](https://colab.research.google.com/drive/1dR3OpDRJEr8MvMTd_--3V6IOXgQytGdZ?usp=sharing)
+
+* [Mapa de defunciones en Guanajuato](kepler_map_f.html)
+
+*Nota:Se puede abrir con cualquier navegador*
+
+*Probado con Chrome y Edge**
+
 
 ## Challenges locales
 *Se dejan los cuadernos locales tambien pero recomiendo ampliamente trabajar en Colab para reducir los problemas*
 
-
+* [Challenge 4: Mapas](./Challenge_4_local.ipynb)
