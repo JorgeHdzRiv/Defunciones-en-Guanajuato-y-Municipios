@@ -15,6 +15,8 @@ Este proyecto se basara en datos abiertos de INEGI para el analisis de datos de 
 
 *A partir de este punto se trabajara con cuadernos de Google Colab y la data desde este mismo repositorio, debido a las librerias que seran utilizadas en adelante las cuales causaron incovenientes en VSCode*
 
+### Challenge 4
+
 * [Challenge 4: Mapas](./Challenge_4.ipynb)
 
 *Copia para abrir directamente desde Colab*
@@ -31,8 +33,13 @@ Este proyecto se basara en datos abiertos de INEGI para el analisis de datos de 
 
 * [Descomprimir archivos](https://stackoverflow.com/questions/3451111/unzipping-files-in-python)
 
+### Challenge 5
 
-## Challenges locales
-*Se dejan los cuadernos locales tambien pero recomiendo ampliamente trabajar en Colab para reducir los problemas*
+* [Challenge 5: Introduccion a Dash](./Challenge_5.ipynb)
 
-* [Challenge 4: Mapas](./Challenge_4_local.ipynb)
+*Copia para abrir directamente desde Google Colab*
+
+* [Challenge 5: Introduccion a Dash](https://drive.google.com/file/d/16Gzs1gwgtg1RU4OZVf-jwCIXvVQI48bg/view?usp=sharing)
+
+
+
