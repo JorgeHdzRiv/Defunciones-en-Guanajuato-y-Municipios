@@ -27,6 +27,10 @@ Este proyecto se basara en datos abiertos de INEGI para el analisis de datos de 
 
 *Probado con Chrome y Edge*
 
+*Se requiere un descompresor de archivos zip o rar o descomprimir directamente desde python*
+
+* [Descomprimir archivos](https://stackoverflow.com/questions/3451111/unzipping-files-in-python)
+
 
 ## Challenges locales
 *Se dejan los cuadernos locales tambien pero recomiendo ampliamente trabajar en Colab para reducir los problemas*
