@@ -8,3 +8,5 @@ Este proyecto se basara en datos abiertos de INEGI para el analisis de datos de 
 
 * [Challenge 2: Graficas iniciales](./Challenge_2.ipynb)
 
+* [Challenge 3: Graficas de comparacion y composicion](./Challenge_3.ipynb)
+
