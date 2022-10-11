@@ -61,4 +61,6 @@ Este proyecto se basara en datos abiertos de INEGI para el analisis de datos de 
 
 * [Challenge 7: Dash con callbacks Parte 2](https://colab.research.google.com/drive/1lrnC9bL1uqFlB5CWbKzRQW7CxwOs6k_t?usp=sharing)
 
+### Challenge 8
 
+* [Challenge 8 : Dasboard deployment](./Challenge_8.ipynb)
