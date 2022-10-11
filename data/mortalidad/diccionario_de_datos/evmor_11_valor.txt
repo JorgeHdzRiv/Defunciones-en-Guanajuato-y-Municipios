@@ -1,0 +1,10 @@
+﻿columna				 tipo				longitud
+cve_entidad			numérico			2
+desc_entidad			caracter			200
+cve_municipio			numérico			4
+desc_municipio			caracter			200
+id_indicador			decimal				15
+indicador			caracter			200
+año				numérico			4
+valor				numérico			50
+unidad_medida			caracter			20

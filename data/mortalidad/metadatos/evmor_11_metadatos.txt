@@ -1,0 +1,28 @@
+﻿
+identifier:MEX-INEGI.ESD3.06-EVM-2018
+
+title: Mortalidad.
+
+description:INEGI. Estadísticas Vitales. Defunciones fetales 2018. SNIEG. Información de Interés Nacional.<br /><br />La estadística de defunciones fetales, se obtiene mediante el aprovechamiento de los registros administrativos captados por el Registro Civil y la Dirección General Jurídica y de Estudios Legislativos (Panteones) en la CDMX.<br /><br />Las estadísticas de mortalidad, proporcionan información acerca de defunciones fetales, su propósito es producir en forma continua y permanente, información que permita conocer y comparar el volumen, tendencias y características de la mortalidad, en los diferentes ámbitos geográficos del país, lo que constituye un insumo para el diseño, análisis y evaluación de programas de salud pública; para prevención y control de enfermedades que causan la muerte fetal; los tipos de embarazos y partos así como la atención prenatal de la madre.<br /><br />Su periodicidad es anual y los resultados se presentan por entidad federativa y municipio, referidos a tres ámbitos: lugar de registro, lugar de ocurrencia y de residencia habitual de la madre.
+
+modified: 30/09/2019 12:00:00 a.m.
+
+publisher: Instituto Nacional de Geografía y Estadística, INEGI
+
+mbox: atencion.usuarios@inegi.org.mx
+
+license: https://www.inegi.org.mx/inegi/terminos.html
+
+dataDictionary: http://www3.inegi.org.mx/rnm/index.php/catalog/524/data_dictionary?idPro=
+
+keyword:defunciones, fetales, muertes, causas de muerte, mortinato, mortalidad
+
+contactPoint: Lic. José de Jesús Esquivel de la Rosa, 800 111 4634
+
+temporal: 2018-01-01-2018-12-31
+
+spatial: Guanajuato
+
+actualPeriodicity: Anual
+
+Distribution: https://inegi.org.mx/contenidos/masiva/indicadores/programas/mortalidad/

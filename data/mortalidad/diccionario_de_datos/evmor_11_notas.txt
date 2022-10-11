@@ -1,0 +1,4 @@
+﻿columna				 tipo				longitud
+id_indicador			numérico			10
+nombre			caracter			255
+nota			caracter			max
