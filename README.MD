@@ -45,7 +45,7 @@ Este proyecto se basara en datos abiertos de INEGI para el analisis de datos de 
 
 * [Challenge 6: Dash con callbacks Parte 1](./Challenge6.ipynb)
 
-*Este notebook puedo correr desde VSCode importante tener en cuenta las dependencias y librerias*
+*Este notebook puede correr desde VSCode importante tener en cuenta las dependencias y librerias*
 
 *Copia para abrir directamente desde Google Colab*
 
