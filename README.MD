@@ -21,7 +21,7 @@ Este proyecto se basara en datos abiertos de INEGI para el analisis de datos de 
 
 * [Challenge 4: Mapas](https://colab.research.google.com/drive/1dR3OpDRJEr8MvMTd_--3V6IOXgQytGdZ?usp=sharing)
 
-* [Mapa de defunciones en Guanajuato](kepler_map_f.html)
+* [Mapa de defunciones en Guanajuato](./kepler_map_f.zip)
 
 *Nota:Se puede abrir con cualquier navegador*
 
