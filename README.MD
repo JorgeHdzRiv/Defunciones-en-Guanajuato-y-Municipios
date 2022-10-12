@@ -72,3 +72,6 @@ Este proyecto se basara en datos abiertos de INEGI para el analisis de datos de 
 
 *Nota: Para el despligue se uso un repositorio de heroku para mas informacion ver el tutorial del Challenge:8*
 
+### Codigo en Python del Dashboard final
+
+* [App](./app.py)
