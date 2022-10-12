@@ -64,3 +64,11 @@ Este proyecto se basara en datos abiertos de INEGI para el analisis de datos de 
 ### Challenge 8
 
 * [Challenge 8 : Dasboard deployment](./Challenge_8.ipynb)
+
+
+## Despligue final en Heroku
+
+* [Defunciones en Guanajuato Dashboard](https://defunciones-gto.herokuapp.com/)
+
+*Nota: Para el despligue se uso un repositorio de heroku para mas informacion ver el tutorial del Challenge:8*
+
